@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HamdoonTheKnights
+- 👋 Hi, I’m @Hamdoon Shafieen
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Search me on google
 
 <!---
 HamdoonTheKnights/HamdoonTheKnights is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
